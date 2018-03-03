@@ -14,7 +14,7 @@ A short story made up of three chapters. Each chapter is displayed using HTML.
 [Chapter 3(Pages)](https://smjmoloney.github.io/chapter3.html)
 
 ## Status
-In Progress
+Completed
 
 ## Personal Links
 [GitHub Profile](https://github.com/smjmoloney)  
