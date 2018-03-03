@@ -1,7 +1,11 @@
 # year3-story-2018
-repository to fork for the 'git story' assessment
 
-for this repo, to use as a starting point for your story
-(and don't forget to complete your assessment by making a 'pull request' back to me...)
+## Summary
+A short story made up of three chapters. Each chapter is displayed using HTML.
 
-.. matt smith ...
+## Quick links
+[Chapter 1](https://github.com/smjmoloney/year3-story-2018/blob/master/chapter1.html)
+
+[Chapter 2](https://github.com/smjmoloney/year3-story-2018/blob/master/chapter2.html)
+
+[Chapter 3](https://github.com/smjmoloney/year3-story-2018/blob/master/chapter3.html)
